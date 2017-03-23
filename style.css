@@ -60,6 +60,27 @@ form {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
+#javaform {
+    margin-right: 8%;
+    border: 1px solid black;
+    width: 25%;
+    float: right;
+    background-color: blue;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+input {
+    margin-left: 40%;
+}
+
+.submitb {
+  margin-right: 25%;
+}
+
+textarea {
+    margin-left: 40%;
+}
+
 div {
     padding-bottom: 5px;
 
